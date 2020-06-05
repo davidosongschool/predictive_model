@@ -1,5 +1,5 @@
-# Python predictive model
-A predictive model build using python
+# Python Cognitive Model
+A predictive model build using python - Graphs Built from 
 
 In the training phase of an experiment, participants were given the 16 training items (see Table 1 below) from which they learned to identify diseases.  									
 Participants studied these 16 training items and were assessed to ensure they had learned the disease categories successfully.   									
